@@ -4,4 +4,8 @@ Atualmente estou cursando Análise e Desenvolvimento de Sistemas 3/6. Moro em Ca
 
 -  🧑‍💻 Desenvolverdor Júnior
 
-- 
+- 🏢	Trabalhando na Evoge Sistemas e Consultoria
+
+- ⚽	Fanático por Futebol 
+
+- 🔴⚫ Apaixonado pelo Flamengo
