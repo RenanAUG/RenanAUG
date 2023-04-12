@@ -23,3 +23,6 @@ Atualmente estou cursando Análise e Desenvolvimento de Sistemas 3/6. Moro em Ca
 <a href="https://www.linkedin.com/in/renan-mendes-carlos/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+<a href="https://www.instagram.com/renan_a.m.c/?next=%2F">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+</a>
