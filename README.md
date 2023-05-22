@@ -19,10 +19,15 @@ Atualmente estou cursando Análise e Desenvolvimento de Sistemas 3/6. Moro em Ca
 <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" />
 </div>
 
-### Vocẽ também me encontra em:
+### Você também me encontra em:
 <a href="https://www.linkedin.com/in/renan-mendes-carlos/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://www.instagram.com/renan_a.m.c/?next=%2F">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
 </a>
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=renanaug&show_icons=true&include_all_commits=true&line_height=20&hide_border=true&theme=graywhite" width="440"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanaug&layout=compact&theme=graywhite&hide_border=true" width="313" />
+</div>
