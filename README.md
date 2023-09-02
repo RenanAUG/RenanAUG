@@ -10,7 +10,7 @@ Atualmente estou cursando Análise e Desenvolvimento de Sistemas 3/6. Moro em Ca
 
 - 🔴⚫ Apaixonado pelo Flamengo
 
-- 🖥️	Trabalho Atualmente com:
+- 🖥️	Trabalho com:
 
 <div display="inline">
 <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
