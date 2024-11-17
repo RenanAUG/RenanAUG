@@ -1,16 +1,16 @@
 ### Olá sou Renan Augusto
 
-Atualmente estou cursando Análise e Desenvolvimento de Sistemas 3/6. Moro em Cascavel/PR.
+Atualmente estou cursando Análise e Desenvolvimento de Sistemas 6/6. Moro em Cascavel/PR.
 
--  🧑‍💻 Desenvolvedor Júnior
+-  🧑‍💻 Analista de Suporte
 
-- 🏢	Trabalhando na Evoge Sistemas e Consultoria
+- 🏢	Trabalhando na Ecocentauro Sistemas Inteligentes
 
 - ⚽	Fanático por Futebol 
 
 - 🔴⚫ Apaixonado pelo Flamengo
 
-- 🖥️	Trabalho com:
+- 🖥️	Desenvolvo com:
 
 <div display="inline">
 <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
