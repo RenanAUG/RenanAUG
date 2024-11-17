@@ -6,9 +6,9 @@ Atualmente estou cursando Análise e Desenvolvimento de Sistemas 6/6. Moro em Ca
 
 - 🏢	Trabalhando na Ecocentauro Sistemas Inteligentes
 
-- ⚽	Fanático por Futebol 
+//- ⚽	Fanático por Futebol 
 
-- 🔴⚫ Apaixonado pelo Flamengo
+//- 🔴⚫ Apaixonado pelo Flamengo
 
 - 🖥️	Desenvolvo com:
 
